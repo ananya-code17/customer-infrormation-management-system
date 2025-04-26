@@ -1,1 +1,1 @@
-# stationary-management-system-
+# customer information management system
